@@ -1,4 +1,4 @@
-# multi-step
+# Fast-slow
 #
 This package provides an implementation of the fast-slow explicit solvent model of molecular dynamics (MD) simulation.
 
