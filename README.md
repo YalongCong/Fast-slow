@@ -12,7 +12,7 @@ Requirements
    
 
 1. Install
-2. 
+
 (1). Extract the files in some location (we use /home/myname as an example here)
 
   cd /home/myname
